@@ -1,4 +1,4 @@
-package com.example.codelabscourse;
+package com.example.android;
 
 import android.os.Bundle;
 
