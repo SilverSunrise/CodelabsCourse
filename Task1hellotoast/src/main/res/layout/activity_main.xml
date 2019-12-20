@@ -34,7 +34,7 @@
         android:textColor="@color/colorPrimary"
         android:textSize="160sp"
         android:textStyle="bold"
-        android:layout_weight="1"/> />
+        android:layout_weight="1"/> 
 
     <Button
         android:id="@+id/button_count"
