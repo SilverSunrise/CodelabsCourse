@@ -1,2 +1,2 @@
-include ':app', ':Task1hellotoast', ':task1challenge'
+include ':app', ':Task1hellotoast', ':task1challenge', ':helloconstraint', ':hello_constraint'
 rootProject.name='CodelabsCourse'
