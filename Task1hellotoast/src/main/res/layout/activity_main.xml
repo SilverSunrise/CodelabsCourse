@@ -23,16 +23,18 @@
         android:id="@+id/show_count"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_weight="1"
-        android:background="#ffff00"
-        android:freezesText="false"
-        android:gravity="center|center_vertical"
+        android:gravity="center_vertical"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:background="#FFFF00"
         android:text="@string/count_initial_value"
-        android:textAllCaps="false"
+        android:textAlignment="center"
         android:textColor="@color/colorPrimary"
-        android:textIsSelectable="false"
         android:textSize="160sp"
-        android:textStyle="bold" />
+        android:textStyle="bold"
+        android:layout_weight="1"/> />
 
     <Button
         android:id="@+id/button_count"
