@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -37,7 +36,7 @@
 
     <TextView
         android:id="@+id/show_count"
-        android:layout_width="409dp"
+        android:layout_width="0dp"
         android:layout_height="573dp"
         android:autoText="false"
         android:background="#ffff00"
@@ -47,7 +46,7 @@
         android:textAllCaps="false"
         android:textColor="@color/colorPrimary"
         android:textIsSelectable="false"
-        android:textSize="160sp"
+        android:textSize="120sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/button_count"
         app:layout_constraintEnd_toEndOf="parent"
