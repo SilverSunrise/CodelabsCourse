@@ -32,7 +32,7 @@
                 android:layout_width="100dp"
                 android:layout_height="wrap_content"
                 android:padding="@dimen/padding_regular"
-                android:textSize="16dp"
+                android:textSize="16sp"
                 android:text="@string/article_subtitle"
                 android:textAppearance="@android:style/TextAppearance.DeviceDefault" />
 
@@ -45,11 +45,9 @@
                 android:padding="@dimen/padding_regular"
                 android:text="@string/article_text" />
 
-
-
             <Button
                 android:id="@+id/comment_btn"
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/add_comment" />
 
