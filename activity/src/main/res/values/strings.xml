@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Activity</string>
+    <string name="button_main">Отправить</string>
+    <string name="activity2_name">Second Activity</string>
+    <string name="text_header">Сообщение получено</string>
+    <string name="editText_main">Введите здесь свое сообщение</string>
+    <string name="editText_second">Напишите ответ здесь</string>
+    <string name="button_second">Ответить</string>
+    <string name="text_header_reply">Ответ получен</string>
+</resources>
